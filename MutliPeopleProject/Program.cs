@@ -8,6 +8,8 @@ namespace MutliPeopleProject {
             
             bool checker = false;
             int counter = 1;
+            
+            //This is ok! ;)
 
             for (int i = 1; i <= 690; i++) {
                 
