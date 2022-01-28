@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "V6IIeywPqEMqh9Pl68qGa8q9CTlkk6GLPfOqltQkUJ6tmUPpMdeuJlZL7qJPXnHo/ltlyuBwJc9BvosaSkVc+w==",
+  "dgSpecHash": "KqJq/a1OLBcR7g5N1n1umtiSny60XtBLBAMkjvufTvQ4bX68LKT0xBGnr23SWtIUaNHtzLq86sr5OeAbiNVDbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\42072\\RiderProjects\\MutliPeopleProject\\MutliPeopleProject\\MutliPeopleProject.csproj",
+  "projectFilePath": "C:\\Users\\Vojta\\Desktop\\Codes\\MutliPeopleProject\\MutliPeopleProject\\MutliPeopleProject.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\42072\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\42072\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\42072\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\42072\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+    "C:\\Users\\Vojta\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Vojta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Vojta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Vojta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
   ],
   "logs": []
 }
