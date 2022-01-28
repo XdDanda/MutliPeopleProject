@@ -1,0 +1,14 @@
+C:\Users\42072\RiderProjects\MutliPeopleProject\MutliPeopleProject\bin\Debug\netcoreapp3.1\MutliPeopleProject.exe
+C:\Users\42072\RiderProjects\MutliPeopleProject\MutliPeopleProject\bin\Debug\netcoreapp3.1\MutliPeopleProject.deps.json
+C:\Users\42072\RiderProjects\MutliPeopleProject\MutliPeopleProject\bin\Debug\netcoreapp3.1\MutliPeopleProject.runtimeconfig.json
+C:\Users\42072\RiderProjects\MutliPeopleProject\MutliPeopleProject\bin\Debug\netcoreapp3.1\MutliPeopleProject.runtimeconfig.dev.json
+C:\Users\42072\RiderProjects\MutliPeopleProject\MutliPeopleProject\bin\Debug\netcoreapp3.1\MutliPeopleProject.dll
+C:\Users\42072\RiderProjects\MutliPeopleProject\MutliPeopleProject\bin\Debug\netcoreapp3.1\MutliPeopleProject.pdb
+C:\Users\42072\RiderProjects\MutliPeopleProject\MutliPeopleProject\obj\Debug\netcoreapp3.1\MutliPeopleProject.csproj.AssemblyReference.cache
+C:\Users\42072\RiderProjects\MutliPeopleProject\MutliPeopleProject\obj\Debug\netcoreapp3.1\MutliPeopleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42072\RiderProjects\MutliPeopleProject\MutliPeopleProject\obj\Debug\netcoreapp3.1\MutliPeopleProject.AssemblyInfoInputs.cache
+C:\Users\42072\RiderProjects\MutliPeopleProject\MutliPeopleProject\obj\Debug\netcoreapp3.1\MutliPeopleProject.AssemblyInfo.cs
+C:\Users\42072\RiderProjects\MutliPeopleProject\MutliPeopleProject\obj\Debug\netcoreapp3.1\MutliPeopleProject.csproj.CoreCompileInputs.cache
+C:\Users\42072\RiderProjects\MutliPeopleProject\MutliPeopleProject\obj\Debug\netcoreapp3.1\MutliPeopleProject.dll
+C:\Users\42072\RiderProjects\MutliPeopleProject\MutliPeopleProject\obj\Debug\netcoreapp3.1\MutliPeopleProject.pdb
+C:\Users\42072\RiderProjects\MutliPeopleProject\MutliPeopleProject\obj\Debug\netcoreapp3.1\MutliPeopleProject.genruntimeconfig.cache

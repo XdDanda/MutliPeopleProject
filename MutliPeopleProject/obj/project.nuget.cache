@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vbGXyZF8VauJ2UDHdtz9ZTh+Tsz+an8dlZLehJnf9f5unwNMPgzIESyJB4WgK8FZXcfwCQC+gW5jtcFiAdllIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\42072\\RiderProjects\\MutliPeopleProject\\MutliPeopleProject\\MutliPeopleProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\42072\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
