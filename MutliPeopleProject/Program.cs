@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Channels;
 
 namespace MutliPeopleProject {
     
@@ -7,6 +8,8 @@ namespace MutliPeopleProject {
         static void Main(string[] args) {
             
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("ahoj");
         }
     }
 }
