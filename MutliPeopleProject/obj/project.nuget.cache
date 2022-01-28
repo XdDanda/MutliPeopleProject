@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vbGXyZF8VauJ2UDHdtz9ZTh+Tsz+an8dlZLehJnf9f5unwNMPgzIESyJB4WgK8FZXcfwCQC+gW5jtcFiAdllIw==",
+  "dgSpecHash": "V6IIeywPqEMqh9Pl68qGa8q9CTlkk6GLPfOqltQkUJ6tmUPpMdeuJlZL7qJPXnHo/ltlyuBwJc9BvosaSkVc+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\42072\\RiderProjects\\MutliPeopleProject\\MutliPeopleProject\\MutliPeopleProject.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\42072\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+    "C:\\Users\\42072\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\42072\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\42072\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\42072\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
   "logs": []
 }

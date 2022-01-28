@@ -9,7 +9,7 @@ namespace MutliPeopleProject {
             bool checker = false;
             int counter = 1;
 
-            for (int i = 1; i <= 1000; i++) {
+            for (int i = 1; i <= 690; i++) {
                 
                 if (!checker) {
                     Console.WriteLine(counter + ". false");
